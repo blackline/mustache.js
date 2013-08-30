@@ -2,7 +2,6 @@
 .rvmrc
 node_modules
 runner.js
-jquery.mustache.js
 qooxdoo.mustache.js
 dojox
 yui3
